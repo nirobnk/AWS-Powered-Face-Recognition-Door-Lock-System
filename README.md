@@ -4,10 +4,10 @@ An intelligent, cloud-powered biometric access control system that uses facial r
 
 ## 👥 Team Members
 
-- **Niroshan**
-- **Irasha**
-- **Oshini**
-- **Niluminda**
+- **[Niroshan](https://github.com/nirobnk)**
+- **[Irasha](https://github.com/Irasha-Senarathna)**
+- **[Oshini](https://github.com/Bandara2001)**
+- **[Niluminda](https://github.com/nilumindakvc)**
 
 ## 📋 Project Overview
 
