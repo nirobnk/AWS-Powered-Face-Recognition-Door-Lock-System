@@ -81,7 +81,7 @@ Physical Button (ESP32) → MQTT → Python Backend → AWS Rekognition
    AWS_REGION=us-east-1
    COLLECTION_ID=door-faces
 
-   MQTT_BROKER=192.168.8.148
+   MQTT_BROKER=ip
    MQTT_PORT=1883
    MQTT_TOPIC=door/command
    ```
@@ -231,7 +231,7 @@ door-backend/
 
 ## 🔧 ESP32 Firmware
 
-Upload the Arduino code to ESP32-CAM:
+Upload the Arduino code to ESP32:
 
 **Pin Configuration:**
 - GPIO 15 → Push Button (trigger)
@@ -274,7 +274,6 @@ Upload the Arduino code to ESP32-CAM:
 **Course:** EE6304 - Embedded Systems Design  
 **Institution:** University of Ruhuna  
 **Department:** Electrical and Electronic Engineering  
-**Duration:** 4 weeks  
 **Year:** 2026
 
 ---
@@ -291,17 +290,11 @@ This project was developed for educational purposes as part of the EE6304 course
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Department of Electrical and Electronic Engineering, University of Ruhuna
 - Course instructors for guidance and support
 - AWS for providing cloud AI services
-
----
-
-## 📞 Contact
-
-For technical inquiries about this project, please reach out to any team member via LinkedIn.
 
 ---
 
